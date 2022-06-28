@@ -11,6 +11,9 @@ pandas==1.2.2
 matplotlib==3.2
 scikit_learn==0.24.1
 statsmodels==0.12.2
-yfinance==0.1.54
 alpha_vantage==2.3.1
+Jinja2==3.0.3
+werkzeug==2.0.2
+itsdangerous==2.0.1
+yfinance==0.1.54
 https://pypi.anaconda.org/berber/simple/tweet-preprocessor/0.5.0/tweet-preprocessor-0.5.0.tar.gz
